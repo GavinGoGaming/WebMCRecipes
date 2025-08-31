@@ -206,6 +206,16 @@ const badges = [
                 MCIcons.blocks.White_Glazed_Terracotta, MCIcons.blocks.White_Glazed_Terracotta, MCIcons.blocks.White_Glazed_Terracotta
             ]} />
         </>
+    }, {
+        icon: MCIcons.blocks.Brown_Glazed_Terracotta,
+        text: <>
+            Dirt Generator <br />
+            <RecipeGrid items={[
+                MCIcons.blocks.White_Glazed_Terracotta, MCIcons.blocks.White_Glazed_Terracotta, MCIcons.blocks.White_Glazed_Terracotta,
+                MCIcons.blocks.White_Glazed_Terracotta, MCIcons.blocks.Dirt, MCIcons.blocks.White_Glazed_Terracotta,
+                MCIcons.blocks.White_Glazed_Terracotta, MCIcons.blocks.White_Glazed_Terracotta, MCIcons.blocks.White_Glazed_Terracotta
+            ]} />
+        </>
     }],
     [{
         type: 'effect',
