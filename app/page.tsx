@@ -1,7 +1,6 @@
 "use client";
 
 import { Badge, Tooltip } from "@klashdevelopment/mc.css";
-import "@klashdevelopment/mc.css/styles/index.css";
 import { MCIcons } from "@klashdevelopment/mcicons";
 import { ReactNode, useEffect, useState } from "react";
 import Image from "next/image";
