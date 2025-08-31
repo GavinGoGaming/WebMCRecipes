@@ -1,0 +1,46 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Minecraft;
+    background: #cccccc;
+    color: black;
+    width: 100vw;
+    height: 100vh;
+}
+
+main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.badges {
+    display: flex;
+    gap: 10px;
+}
+
+main > .mc-tooltip {
+    position: absolute;
+    pointer-events: none;
+}
+.badge-grid {
+    /* 3 rows, 3 cols, 32px items */
+    display: grid;
+    grid-template-columns: repeat(3, 48px);
+    grid-template-rows: repeat(3, 48px);
+    gap: 0px;
+}
+.badge-grid > div {
+    width: 48px;
+    height: 48px;
+}
+
+.badge-column {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
