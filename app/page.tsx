@@ -162,7 +162,7 @@ const badges = [
     }, {
         icon: MCIcons.blocks.Cyan_Glazed_Terracotta,
         text: <>
-            Friendly Mob Generator <br />
+            Mob Generator <br />
             <RecipeGrid items={[
                 MCIcons.blocks.White_Glazed_Terracotta, MCIcons.blocks.White_Glazed_Terracotta, MCIcons.blocks.White_Glazed_Terracotta,
                 MCIcons.blocks.White_Glazed_Terracotta, MCIcons.items.Bone, MCIcons.blocks.White_Glazed_Terracotta,
