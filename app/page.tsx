@@ -29,12 +29,12 @@ const badges = [
         type: 'effect',
         icon: MCIcons.blocks.Spawner,
         text: <>
-            Blank Generators
+            Unused Generators
         </>
     }, {
         icon: MCIcons.blocks.White_Glazed_Terracotta,
         text: <>
-            Blank Generator <br />
+            Empty Generator <br />
             <RecipeGrid items={[
                 null, MCIcons.items.Iron_Ingot, null,
                 MCIcons.items.Iron_Ingot, null, MCIcons.items.Iron_Ingot,
@@ -46,7 +46,7 @@ const badges = [
         type: 'effect',
         icon: MCIcons.blocks.Cobblestone,
         text: <>
-            Cobble Generators
+            Cobblestone Generators
         </>
     }, {
         icon: MCIcons.blocks.Light_Gray_Glazed_Terracotta,
@@ -157,12 +157,12 @@ const badges = [
         type: 'effect',
         icon: MCIcons.items.Spawn_Egg,
         text: <>
-            Mob Generators
+            Mob Spawners
         </>
     }, {
         icon: MCIcons.blocks.Cyan_Glazed_Terracotta,
         text: <>
-            Mob Generator <br />
+            Mob Spawner <br />
             <RecipeGrid items={[
                 MCIcons.blocks.White_Glazed_Terracotta, MCIcons.blocks.White_Glazed_Terracotta, MCIcons.blocks.White_Glazed_Terracotta,
                 MCIcons.blocks.White_Glazed_Terracotta, MCIcons.items.Bone, MCIcons.blocks.White_Glazed_Terracotta,
@@ -172,7 +172,7 @@ const badges = [
     }, {
         icon: MCIcons.blocks.Blue_Glazed_Terracotta,
         text: <>
-            Friendly Mob Generator <br />
+            Friendly Mob Spawner <br />
             <RecipeGrid items={[
                 null, MCIcons.blocks.Cyan_Glazed_Terracotta, null,
                 MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.items.Water_Bucket, MCIcons.blocks.Cyan_Glazed_Terracotta,
@@ -182,7 +182,7 @@ const badges = [
     }, {
         icon: MCIcons.blocks.Magenta_Glazed_Terracotta,
         text: <>
-            Hostile Mob Generator <br />
+            Hostile Mob Spawner <br />
             <RecipeGrid items={[
                 null, MCIcons.blocks.Cyan_Glazed_Terracotta, null,
                 MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.items.Lava_Bucket, MCIcons.blocks.Cyan_Glazed_Terracotta,
@@ -300,7 +300,7 @@ const badges = [
     }, {
         icon: MCIcons.items.Iron_Axe,
         text: <>
-            Thor <br />
+            Thor Hammer <br />
             <RecipeGrid items={[
                 null, MCIcons.items.Iron_Axe, null,
                 MCIcons.items.Trident, MCIcons.items.Netherite_Ingot, MCIcons.items.Trident,
