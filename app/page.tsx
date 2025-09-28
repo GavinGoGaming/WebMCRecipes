@@ -174,9 +174,9 @@ const badges = [
         text: <>
             Friendly Mob Spawner <br />
             <RecipeGrid items={[
-                null, MCIcons.blocks.Cyan_Glazed_Terracotta, null,
+                MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.blocks.Cyan_Glazed_Terracotta,
                 MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.items.Water_Bucket, MCIcons.blocks.Cyan_Glazed_Terracotta,
-                null, MCIcons.blocks.Cyan_Glazed_Terracotta, null
+                MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.blocks.Cyan_Glazed_Terracotta
             ]} />
         </>
     }, {
@@ -184,9 +184,9 @@ const badges = [
         text: <>
             Hostile Mob Spawner <br />
             <RecipeGrid items={[
-                null, MCIcons.blocks.Cyan_Glazed_Terracotta, null,
+                MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.blocks.Cyan_Glazed_Terracotta,
                 MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.items.Lava_Bucket, MCIcons.blocks.Cyan_Glazed_Terracotta,
-                null, MCIcons.blocks.Cyan_Glazed_Terracotta, null
+                MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.blocks.Cyan_Glazed_Terracotta, MCIcons.blocks.Cyan_Glazed_Terracotta
             ]} />
         </>
     }],
