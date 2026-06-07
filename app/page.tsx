@@ -293,57 +293,57 @@ const badges = [
     }],
     [{
         type: 'effect',
-        icon: MCIcons.items.Furnace,
+        icon: MCIcons.blocks.Furnace,
         text: <>
             Furnaces
         </>
     }, {
-        icon: MCIcons.items.Furnace,
+        icon: MCIcons.blocks.Furnace,
         text: <>
             Gold Furnace <br />
             <RecipeGrid items={[
                 MCIcons.items.Gold_Ingot, MCIcons.items.Gold_Ingot, MCIcons.items.Gold_Ingot,
-                MCIcons.items.Gold_Ingot, MCIcons.items.Furnace, MCIcons.items.Gold_Ingot,
+                MCIcons.items.Gold_Ingot, MCIcons.blocks.Furnace, MCIcons.items.Gold_Ingot,
                 MCIcons.items.Gold_Ingot, MCIcons.items.Gold_Ingot, MCIcons.items.Gold_Ingot
             ]} />
         </>
     }, {
-        icon: MCIcons.items.Furnace,
+        icon: MCIcons.blocks.Furnace,
         text: <>
             Emerald Furnace <br />
             <RecipeGrid items={[
                 MCIcons.items.Emerald, MCIcons.items.Emerald, MCIcons.items.Emerald,
-                MCIcons.items.Emerald, MCIcons.items.Furnace, MCIcons.items.Emerald,
+                MCIcons.items.Emerald, MCIcons.blocks.Furnace, MCIcons.items.Emerald,
                 MCIcons.items.Emerald, MCIcons.items.Emerald, MCIcons.items.Emerald
             ]} />
         </>
     }, {
-        icon: MCIcons.items.Furnace,
+        icon: MCIcons.blocks.Furnace,
         text: <>
             Diamond Furnace <br />
             <RecipeGrid items={[
                 MCIcons.items.Diamond, MCIcons.items.Diamond, MCIcons.items.Diamond,
-                MCIcons.items.Diamond, MCIcons.items.Furnace, MCIcons.items.Diamond,
+                MCIcons.items.Diamond, MCIcons.blocks.Furnace, MCIcons.items.Diamond,
                 MCIcons.items.Diamond, MCIcons.items.Diamond, MCIcons.items.Diamond
             ]} />
         </>
     }, {
-        icon: MCIcons.items.Furnace,
+        icon: MCIcons.blocks.Furnace,
         text: <>
             Copper Furnace <br />
             <RecipeGrid items={[
                 MCIcons.items.Copper_Ingot, MCIcons.items.Copper_Ingot, MCIcons.items.Copper_Ingot,
-                MCIcons.items.Copper_Ingot, MCIcons.items.Furnace, MCIcons.items.Copper_Ingot,
+                MCIcons.items.Copper_Ingot, MCIcons.blocks.Furnace, MCIcons.items.Copper_Ingot,
                 MCIcons.items.Copper_Ingot, MCIcons.items.Copper_Ingot, MCIcons.items.Copper_Ingot
             ]} />
         </>
     }, {
-        icon: MCIcons.items.Furnace,
+        icon: MCIcons.blocks.Furnace,
         text: <>
             Netherite Furnace <br />
             <RecipeGrid items={[
                 MCIcons.items.Netherite_Ingot, MCIcons.items.Netherite_Ingot, MCIcons.items.Netherite_Ingot,
-                MCIcons.items.Netherite_Ingot, MCIcons.items.Furnace, MCIcons.items.Netherite_Ingot,
+                MCIcons.items.Netherite_Ingot, MCIcons.blocks.Furnace, MCIcons.items.Netherite_Ingot,
                 MCIcons.items.Netherite_Ingot, MCIcons.items.Netherite_Ingot, MCIcons.items.Netherite_Ingot
             ]} />
         </>
